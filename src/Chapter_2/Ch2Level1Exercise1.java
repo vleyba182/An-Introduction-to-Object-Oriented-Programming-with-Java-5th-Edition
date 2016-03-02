@@ -1,4 +1,4 @@
-/**
+package Chapter_2; /**
  * Created by vicenteleyba on 3/1/16.
  *
  * Chapter 2 Level 1 Exercise 1:
@@ -11,7 +11,7 @@
 
 import javax.swing.*;
 
-class Ch2SLevel1Exercise1 {
+class Ch2Level1Exercise1 {
 
     public static void main(String[] args) {
 

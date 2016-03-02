@@ -1,4 +1,4 @@
-/**
+package Chapter_2; /**
  * Created by vicenteleyba on 11/6/15.
 
     Chapter 2 Level 1 Exercise 2:
@@ -8,7 +8,6 @@
 		input values are Johann and Strauss, then the title would be Strauss, Johann.
 
     File: Ch2Level1Exercise2.java
-    this is a test
 */
 
 import java.util.Scanner;

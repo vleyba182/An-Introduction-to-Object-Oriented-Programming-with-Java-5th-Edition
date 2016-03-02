@@ -1,3 +1,5 @@
+package Chapter_2;
+
 public class Chapter2QuickCheck2 {
 	
 	public static void main(String[] args) {

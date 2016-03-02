@@ -1,4 +1,4 @@
-/*
+package Chapter_2;/*
  * Sample program displaying a GUI.
  * 
  * 

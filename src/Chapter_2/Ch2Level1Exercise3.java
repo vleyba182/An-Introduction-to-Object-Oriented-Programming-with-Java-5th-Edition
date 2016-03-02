@@ -1,6 +1,6 @@
-/*
+package Chapter_2;/*
     Chapter 2 Level 1 Exercise 3:
-       Input the user’s first,middle,and last name as three separate
+       Input the users first,middle,and last name as three separate
        strings and display the name in the order of the first name, the middle initial, 
        and the last name. Include the period after the middle initial. If the input strings 
        are Wolfgang, Amadeus, and Mozart, for example, then the ouput would be Wolfgang A. Mozart. 

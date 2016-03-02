@@ -1,4 +1,4 @@
-/*
+package Chapter_2;/*
     Chapter 2 Level 2 Exercise 2:
 		Display the current time in the title of a frame window
 		using this format: 12:45:43 PM. Refer to Table 2.1 for 

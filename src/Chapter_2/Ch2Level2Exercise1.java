@@ -1,4 +1,4 @@
-/*
+package Chapter_2;/*
     Chapter 2 Level 2 Exercise 1:
 		Write a program that displays a frame window W pixels wide and H pixels high. 
 		Use the Scanner to enter the values for W and H. The title of the frame is 
@@ -32,6 +32,7 @@ public class Ch2Level2Exercise1 {
 		myWindow.setSize(pixelWidth, pixelHeight);
 		myWindow.setTitle(frameTitle);
 		myWindow.setVisible(true);
+
 		
 	}
 }
