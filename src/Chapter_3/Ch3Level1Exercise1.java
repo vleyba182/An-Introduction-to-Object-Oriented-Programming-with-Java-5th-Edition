@@ -1,5 +1,3 @@
-package Chapter_3;
-
 /**
  * Created by vicenteleyba on 3/1/16.
  *
@@ -7,6 +5,8 @@ package Chapter_3;
  * 1 in = 2.54 cm.
  *
  */
+
+package Chapter_3;
 
 import java.util.Scanner;
 
@@ -22,13 +22,12 @@ public class Ch3Level1Exercise1 {
         System.out.println("Please enter the number of centimeters:");
         centimeters = scanner.nextDouble();
 
-        feet = centimeters / (2.54 * 12);
-        inches = (centimeters * 2.54) - (feet * 12);
+        feet = Math.floor(centimeters / (2.54 * 12));
+        inches = (centimeters / 2.54) - (12 * feet);
 
         System.out.println(feet);
         System.out.println(inches);
-
-
+        System.out.println(centimeters + " cm = " + feet + " ft " + inches + " in" );
 
     }
 }
