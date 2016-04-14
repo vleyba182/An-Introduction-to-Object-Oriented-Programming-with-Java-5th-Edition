@@ -25,7 +25,7 @@ public class Ch3Level1Exercise4 {
         degreesFahrenheit = scanner.nextDouble();
         degreesCelsius = (5.0/9.0) * ((degreesFahrenheit - 32));
 
-        System.out.println(degreesFahrenheit  + " °F = " + degreesCelsius + " °C" );
+        System.out.println(degreesFahrenheit  + " °F = " + degreesCelsius + " °C");
 
     }
 }
