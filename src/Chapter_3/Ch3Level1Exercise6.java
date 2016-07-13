@@ -18,7 +18,6 @@ package Chapter_3;
 
 import java.util.Scanner;
 
-
 public class Ch3Level1Exercise6 {
 
     public static void main(String[] args) {
