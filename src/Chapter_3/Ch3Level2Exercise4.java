@@ -22,11 +22,7 @@ public class Ch3Level2Exercise4 {
 
     public static void main(String[] args) {
 
-        double  a,
-                b,
-                c,
-                x1,
-                x2;
+        double  a, b, c, x1, x2;
 
         Scanner scanner;
         scanner = new Scanner(System.in);

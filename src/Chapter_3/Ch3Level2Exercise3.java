@@ -32,11 +32,7 @@ public class Ch3Level2Exercise3 {
 
     public static void main(String[] args) {
 
-        double  earthAge,
-                mercuryAge,
-                venusAge,
-                jupiterAge,
-                saturnAge;
+        double  earthAge, mercuryAge, venusAge, jupiterAge, saturnAge;
 
         Scanner scanner;
         scanner = new Scanner(System.in);
